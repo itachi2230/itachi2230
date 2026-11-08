@@ -48,7 +48,9 @@ Développeur passionné spécialisé dans la conception d'applications web, mobi
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=itachi2230&theme=tokyonight" alt="Série de contributions" />
 </p>
-
+<p align="center">
+  <img src="https://metrics.lecoq.io/itachi2230?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&config.timezone=Africa%2FBamako" alt="Metrics détaillées" />
+</p>
 ---
 
 ### 🐍 Graphique d'activité animé
