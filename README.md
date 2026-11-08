@@ -11,7 +11,20 @@ Développeur passionné spécialisé dans la conception d'applications web, mobi
 ### 🏆 Accomplissements & Trophées
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=itachi2230&theme=onedark&column=6&margin-w=15" alt="Trophées GitHub" />
+  <img src="https://github-profile-trophy.vercel.app/?username=itachi2230&theme=onedark&column=6" alt="Trophées GitHub" />
+</p>
+
+---
+
+### 📊 Statistiques & Performances Globale
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=itachi2230&show_icons=true&theme=tokyonight" alt="Statistiques GitHub" height="175" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itachi2230&layout=compact&theme=tokyonight" alt="Langages les plus utilisés" height="175" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itachi2230&theme=tokyonight" alt="Série de contributions" />
 </p>
 
 ---
